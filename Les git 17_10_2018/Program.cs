@@ -10,7 +10,7 @@ namespace Les_git_17_10_2018
 	{
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello van develop ");
+			Console.WriteLine("Hello van Master ");
 			Console.Read();
 		}
 	}
